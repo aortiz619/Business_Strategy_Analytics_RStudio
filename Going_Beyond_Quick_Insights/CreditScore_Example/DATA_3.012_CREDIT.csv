@@ -1,0 +1,13 @@
+Answer,Income,Cards,Married (=Yes)
+A,Positive,Positve,Positve
+B,Positive,Positve,Positve
+C,Positive,NS,Positve
+D,Positive,Positve,NS
+E,Positive,Negative,NS
+F,Positive,NS,NS
+G,Negative,Positve,Positve
+H,Negative,Negative,Positve
+I,Negative,NS,Positve
+J,Negative,Positve,NS
+K,Negative,Negative,NS
+L,Negative,NS,NS
